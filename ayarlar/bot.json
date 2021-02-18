@@ -1,0 +1,7 @@
+{
+    "prefix": "FynxMusicBotPrefix",
+    "youtube_api": "FynxMusicBotYoutubeApiKey",
+    "fynxtoken": "FynxMusicBotYoutubeApiKey",
+    "fynxport": "3000",
+    "pingmesaj": "[FynxCode V12 Müzik Altyapısı] Bot Pinglendi! ☝"
+}
